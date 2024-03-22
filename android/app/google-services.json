@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147120848226",
+    "project_id": "login-auth-16ded",
+    "storage_bucket": "login-auth-16ded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147120848226:android:7348f139cd4a38ac78003b",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8NDupTQfEuLgecKbs2m5d78CxSBKuFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
